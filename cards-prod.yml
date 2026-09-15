@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related prod APIs Daft Punk"
+  message: "Hey, welcome to EazyBank cards related prod APIs Daft Punk one more time"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
